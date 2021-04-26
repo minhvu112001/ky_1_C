@@ -51,7 +51,7 @@ AutoIncBuildNr=0
 SyncProduct=1
 
 [Unit1]
-FileName=nhapvaomotkitu.c
+FileName=mang2chieu.c
 CompileCpp=0
 Folder=
 Compile=1
